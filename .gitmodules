@@ -22,3 +22,7 @@
 	path = Timeless
 	url = https://github.com/wikimedia/mediawiki-skins-Timeless
 	branch = REL1_34
+[subomdule "Pivot"]
+        path = Pivot
+	url = https://github.com/Hutchy68/pivot
+	branch = master
